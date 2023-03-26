@@ -1,0 +1,1 @@
+pyinstaller -F -console beck_suicide.py
